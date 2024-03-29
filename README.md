@@ -2,7 +2,7 @@ rust-example-lib
 ==
 
 
-[![Actions Status](https://github.com/mitchallen/rust-example-lib/workflows/Build%20Test/badge.svg)](https://github.com/mitchallen/rust-exammple-lib/actions)
+[![Actions Status](https://github.com/mitchallen/rust-example-lib/workflows/Build%20Test/badge.svg)](https://github.com/mitchallen/rust-example-lib/actions)
 
 
 ## Usage
