@@ -43,8 +43,8 @@ git push origin main --tags
 ## How this project was initialized
 
 ```sh
-cargo new --lib rust-example-liob
-cd rust-lib-01
+cargo new --lib rust-example-lib
+cd rust-example-lib
 ```
 
 ## Structure
