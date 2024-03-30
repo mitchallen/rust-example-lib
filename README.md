@@ -14,7 +14,7 @@ rust-example-lib
 
 ```toml
 [dependencies]
-rust-example_lib = { git = "https://github.com/mitchallen/rust-example-lib.git", tag = "v0.1.0" }
+rust-example-lib = { git = "https://github.com/mitchallen/rust-example-lib.git", tag = "v0.1.0" }
 ```
 
 ## Rust
